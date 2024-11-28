@@ -1,6 +1,7 @@
 # ponderada_sem7
 
-Video: 
+Vídeo parte 1: https://youtu.be/N_7QujWNynk
+Vídeo parte 2: https://youtu.be/stCs4fGQPhc
 
 
 Durante a demonstração, configurei o ESP32 para monitorar a intensidade do sinal Wi-Fi (em dBm), enviando os dados para a plataforma Ubidots via MQTT e exibindo-os no monitor serial. Comecei na sala, onde permaneci por cerca de 10 segundos. Nesse momento, a conexão estava estável, com o ESP32 transmitindo os dados em tempo real para a nuvem.
